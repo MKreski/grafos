@@ -1,3 +1,3 @@
-Matheus Kreski
-Iago Firmino
-João Pedro
+* Matheus Kreski
+* Iago Firmino
+* João Pedro
